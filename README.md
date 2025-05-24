@@ -29,7 +29,7 @@ PyLogicalOps/
 Clone the repo:
 
 bash
-git clone https://github.com/RadiantCoreX64/PyLogicalOps.git
+git clone https://github.com/RadiantCoreLabs/PyLogicalOps.git
 Explore the examples/ folder for code snippets.
 
 Try the exercises/ to test your understanding.
